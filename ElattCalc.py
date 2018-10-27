@@ -7,3 +7,4 @@ opt_params = find_optimised_params(testfile)
 print(opt_atoms)
 print(opt_params)
 
+Output()
